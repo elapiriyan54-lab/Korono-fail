@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <files-path name="krono_storage" path="KronoStorage/" />
+    <files-path name="krono_vault" path="KronoSafeVault/" />
+    <external-path name="external_files" path="." />
+    <cache-path name="krono_cache" path="/" />
+</paths>

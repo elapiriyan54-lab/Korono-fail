@@ -1,0 +1,6 @@
+{
+  "name": "KronoFiles",
+  "description": "Futuristic glassmorphism offline file manager with Chronos Timeline, deterministic Smart Search, Biometric Safe Vault, Smart Cleanup, Retro-Futuristic Vinyl Audio Player, Glassmorphism Video Player, and Offline Document, Code & PDF Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
